@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*
-#up
+
+# -*- coding: utf-8 -*-
+# 2 up
+
 import rospy
 import random
 
