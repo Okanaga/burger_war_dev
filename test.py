@@ -2,7 +2,7 @@
 
 # -*- coding: utf-8 -*-
 # 2 up
-#yarinasoi
+#yarina
 
 import rospy
 import random
